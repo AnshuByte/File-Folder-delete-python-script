@@ -49,17 +49,17 @@ The script performs the following steps:
 ```sh
 $ python delete_files_and_folders.py
 Found the following files:
-/Users/username/Desktop/Join Our Platforms.pdf
-/Users/username/Downloads/10k Free Courses.pdf
+/Users/username/Desktop/Platforms.pdf
+/Users/username/Downloads/Courses.pdf
 ...
 Found the following folders:
-/Users/username/Desktop/00-Join LearnWithFaizan For Free Courses
+/Users/username/Desktop/00-Join For Free Courses
 ...
 Do you want to delete these files and folders? (yes/no): yes
-Deleted /Users/username/Desktop/Join Our Platforms.pdf
-Deleted /Users/username/Downloads/10k Free Courses.pdf
+Deleted /Users/username/Desktop/Platforms.pdf
+Deleted /Users/username/Downloads/Courses.pdf
 ...
-Deleted folder /Users/username/Desktop/00-Join LearnWithFaizan For Free Courses
+Deleted folder /Users/username/Desktop/00-Join For Free Courses
 ...
 Do you want to delete any more files or folders? (yes/no): yes
 Enter the names of files to delete, separated by commas: example.txt, sample.docx
@@ -80,3 +80,4 @@ Deleted folder /Users/username/Desktop/TestFolder
 Deleted folder /Users/username/Downloads/SampleFolder
 ...
 No more deletions requested.
+

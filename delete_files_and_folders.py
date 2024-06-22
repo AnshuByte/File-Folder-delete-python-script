@@ -39,12 +39,12 @@ if __name__ == "__main__":
     search_paths = [desktop_path, downloads_path]
     
     # Default file names to delete
-    file_names = ["Join Our Platforms.pdf", "10k Free Courses.pdf", "100$ Free.docx", 
-                  "Introduction.txt", "Gift.pdf", "moneyvipprogram.com - VIP of ALL VIP.txt", 
-                  "moneyVIPprogram.com.gif", "moneyvipprogram.com", "bestblackhatforum.com"]
+    file_names = ["Platforms.pdf", "Courses.pdf", "Free.docx", 
+                  "Introduction.txt", "Gift.pdf", "money.com - VIP.txt", 
+                  ]
 
     # Default folder names to delete
-    folder_names = ["00-Join LearnWithFaizan For Free Courses", "00- Join LearnWithFaizan"]
+    folder_names = ["00-Join For Free Courses", "00- Join to Learn"]
 
     while True:
         # Find files and folders
